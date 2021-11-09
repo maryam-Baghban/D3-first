@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06f6bc8b-2edd-41f8-9935-3d45392d35e1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ifx0XnMq8kVsEnzMXKAYTOSqnV" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="Csv.Editor.Settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\D3Tutorial\barchart plus axis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06f6bc8b-2edd-41f8-9935-3d45392d35e1" name="Default Changelist" comment="" />
+      <created>1602312224252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602312224252</updated>
+      <workItem from="1602312225353" duration="18983000" />
+      <workItem from="1602395239299" duration="5233000" />
+      <workItem from="1602401429057" duration="5581000" />
+      <workItem from="1602410354231" duration="7990000" />
+      <workItem from="1603191032760" duration="7945000" />
+      <workItem from="1603269569592" duration="868000" />
+      <workItem from="1603278497611" duration="10693000" />
+      <workItem from="1603529598675" duration="430000" />
+      <workItem from="1603545548408" duration="888000" />
+      <workItem from="1605003727115" duration="6168000" />
+      <workItem from="1605071027492" duration="16366000" />
+      <workItem from="1605163692030" duration="3920000" />
+      <workItem from="1605593677233" duration="6878000" />
+      <workItem from="1615975609126" duration="6069000" />
+      <workItem from="1616062941318" duration="174000" />
+      <workItem from="1636467819871" duration="643000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
